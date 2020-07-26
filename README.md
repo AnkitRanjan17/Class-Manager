@@ -7,17 +7,17 @@ Teachers can take attendance , allot marks and even chat with the students throu
 Student can view their current attendance and marks of each courses.
 Group members also have the facility of sending images in the chats section.
 
-![register]( https://imgur.com/HMpCBJO.jpg)
-![profile]( https://imgur.com/dyZ9Wz1.jpg)
-![teacher]( https://imgur.com/czwTmgc.jpg)
-![create class]( https://imgur.com/e6sqxfW.jpg)
-![marks]( https://imgur.com/Zyou0Pu.jpg) 
-![attendance]( https://imgur.com/6WSJhWe.jpg)
-![student]( https://imgur.com/V8uZpsx.jpg)
-![key]( https://imgur.com/vafU61S.jpg) 
-![record]( https://imgur.com/vWUPPBH.jpg)
-![chat]( https://imgur.com/T6JYYkR.jpg) 
-![image]( https://imgur.com/H95pv4F.jpg)
+![register]( https://imgur.com/HMpCBJO.jpg | width=200)
+![profile]( https://imgur.com/dyZ9Wz1.jpg | width=200)
+![teacher]( https://imgur.com/czwTmgc.jpg | width=200)
+![create class]( https://imgur.com/e6sqxfW.jpg | width=200)
+![marks]( https://imgur.com/Zyou0Pu.jpg | width=200) 
+![attendance]( https://imgur.com/6WSJhWe.jpg | width=200)
+![student]( https://imgur.com/V8uZpsx.jpg | width=200)
+![key]( https://imgur.com/vafU61S.jpg | width=200) 
+![record]( https://imgur.com/vWUPPBH.jpg | width=200)
+![chat]( https://imgur.com/T6JYYkR.jpg | width=200) 
+![image]( https://imgur.com/H95pv4F.jpg | width=200)
 
 
 
