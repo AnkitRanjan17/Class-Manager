@@ -7,7 +7,8 @@ Teachers can take attendance , allot marks and even chat with the students throu
 Student can view their current attendance and marks of each courses.
 Group members also have the facility of sending images in the chats section.
 
-![register]( https://imgur.com/HMpCBJO.jpg | width=200)
+![register]( https://imgur.com/HMpCBJO.jpg)
+<img src="https://imgur.com/HMpCBJO.jpg" width="200">
 ![profile]( https://imgur.com/dyZ9Wz1.jpg | width=200)
 ![teacher]( https://imgur.com/czwTmgc.jpg | width=200)
 ![create class]( https://imgur.com/e6sqxfW.jpg | width=200)
