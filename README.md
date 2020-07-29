@@ -5,7 +5,8 @@ Teachers can create classes using the "create class" feature and share the key t
 Students can join the class through a unique "key" which is generated for each of your courses.
 Teachers can take attendance , allot marks and even chat with the students through a group chat created for different courses.
 Student can view their current attendance and marks of each courses. 
-Group members also have the facility of sending images in the chats section.Given below are some screenshots of the app.
+Group members also have the facility of sending images in the chats section.
+Given below are some screenshots of the app.
 <img src="https://imgur.com/6XoEL4k.jpg" width="300"> 
 <img src="https://imgur.com/8YD8Hkt.jpg" width="300">
 <img src="https://imgur.com/QTMZcs0.jpg" width="300">
